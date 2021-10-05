@@ -1,12 +1,12 @@
 [submodule "Avi"]
 	path = Avi
-	url = ./Avi
+	url = https://github.com/cppietime/CppAviLib.git
 [submodule "BitUtil"]
 	path = BitUtil
-	url = ./BitUtil
+	url = https://github.com/cppietime/CppBitUtilLib.git
 [submodule "Jpeg"]
 	path = Jpeg
-	url = ./Jpeg
+	url = https://github.com/cppietime/CppJpegLib.git
 [submodule "Flac"]
 	path = Flac
-	url = ./Flac
+	url = https://github.com/cppietime/CppFlacLib.git
