@@ -1,0 +1,12 @@
+[submodule "Avi"]
+	path = Avi
+	url = ./Avi
+[submodule "BitUtil"]
+	path = BitUtil
+	url = ./BitUtil
+[submodule "Jpeg"]
+	path = Jpeg
+	url = ./Jpeg
+[submodule "Flac"]
+	path = Flac
+	url = ./Flac

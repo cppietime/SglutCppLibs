@@ -1,0 +1,10 @@
+**/.git
+**/obj
+**/build
+**/*.out
+**/*.o
+**/*.jpeg
+**/*.jpg
+**/*.flac
+**/*.avi
+
