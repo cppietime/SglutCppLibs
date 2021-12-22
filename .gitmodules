@@ -10,3 +10,6 @@
 [submodule "Flac"]
 	path = Flac
 	url = https://github.com/cppietime/CppFlacLib.git
+[submodule "Synth"]
+	path = Synth
+	url = ./Synth
