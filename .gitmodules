@@ -12,4 +12,4 @@
 	url = https://github.com/cppietime/CppFlacLib.git
 [submodule "Synth"]
 	path = Synth
-	url = ./Synth
+	url = https://github.com/cppietime/Synth.git
